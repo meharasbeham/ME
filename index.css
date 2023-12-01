@@ -1,0 +1,131 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.container{
+  background-color: rgb(218, 231, 179);
+  width: 800px;
+  height: 600px;
+  margin-top: 20px;
+  border: 1px solid;
+  box-shadow: 10px;
+  
+}
+
+.col-md-3{
+  background-color: rgb(194, 231, 145);
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  height: 600px;
+  
+}
+.hr{
+align-items: center;
+ padding: 20px;
+ margin-left: 25px;
+  font-weight: bold;
+  margin-top: -500px;
+}
+.bn{
+  background-color: rgb(218, 136, 15);
+  width: 50px;
+   height: 50px;
+  align-items: center;
+  justify-content: center;
+ display: flex;
+  font-weight: 800;
+  border-radius: 50%;
+  padding: 10px;
+  margin-top:-35em;
+  margin-left: 5px;
+}
+.box{
+  background-color: rgb(220, 241, 136);
+  padding: 10px;
+  display: flex;
+  margin-left: 240px;
+  margin-top: 50px;
+  width: 500px;
+  height: 200px;
+  border-radius: 20px;
+  box-shadow: 2px 2px rgb(255, 252, 252);
+  font-size: large;
+}
+.H{
+  margin-left: 260PX;
+ display: flex;
+ flex-direction:column;
+}
+.p{
+  margin-left: 250px;
+ margin-top: -10px;
+
+}
+.sbox{
+ margin-top: -60px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.box-1{
+  background-color: rgb(147, 168, 238);
+  margin-left: 230px;
+  padding: 10px;
+  margin-top: 50px;
+  width: 120px;
+  height: 120px;
+  border-radius: 10px;
+  box-shadow: 2px 2px;
+  font-size: small;
+
+}
+.box-2{
+  background-color:  rgb(147, 168, 238);
+  margin-left: 400px;
+  padding: 10px;
+  margin-top: 10px;
+  width: 120px;
+  height: 120px;
+  margin-top: -140px;
+  border-radius: 10px;
+  box-shadow: 2px 2px;
+  font-size: small;
+}
+.box-3{
+  background-color: rgb(147, 168, 238);
+  margin-left: 580px;
+  padding: 10px;
+  width: 120px;
+  height: 120px;
+  margin-top: -140px;
+  border-radius: 10px;
+  box-shadow: 2px 2px;
+  font-size: small;
+}
+.title{
+  display: flex;
+  margin-left: -90px;
+  padding: 10px;
+}
+.icon{
+
+margin-left: -120px;
+margin-top: 120px;
+
+}
+p{
+ margin-left: 10px;
+}
